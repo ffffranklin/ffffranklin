@@ -1,4 +1,4 @@
-### Hi, it's Franklin 🎃
+### Hi, it's Franklin 🍂
 
 I'm a Frontend Engineer helping grow ideas into thoughtful experiences.
 
